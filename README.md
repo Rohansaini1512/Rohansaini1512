@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Saini</h1>
-<h3 align="center">Passionate about cloud technologies, I serve as the Cloud Lead at Google Developer Student Clubs (GDSC). Currently diving into DevOps, my expertise extends to the MERN (MongoDB, Express.js, React.js, Node.js) stack. Cloud Mastery: Leading initiatives in cloud technologies, with a focus on AWS, Azure, and Google Cloud. DevOps Exploration: Actively learning DevOps methodologies, automation, CI/CD pipelines, and infrastructure as code. Further enhance DevOps skills, exploring tools like Ansible and Prometheus. Deepen cloud expertise, achieving certifications in AWS and Google Cloud.</h3>
+<h3 align="center"><h2>About me</h2>Passionate about cloud technologies, I serve as the Cloud Lead at Google Developer Student Clubs (GDSC). <br> Currently diving into DevOps, my expertise extends to the MERN (MongoDB, Express.js, React.js, Node.js) stack. <br> Cloud Mastery: Leading initiatives in cloud technologies, with a focus on AWS, Azure, and Google Cloud. DevOps Exploration: Actively learning DevOps methodologies, automation, CI/CD pipelines, and infrastructure as code. <br>Further enhance DevOps skills, exploring tools like Ansible and Prometheus.Deepen cloud expertise, achieving certifications in AWS and Google Cloud.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansaini1512&label=Profile%20views&color=0e75b6&style=flat" alt="rohansaini1512" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohansaini1512" alt="rohansaini1512" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
