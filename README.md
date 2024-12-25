@@ -69,6 +69,7 @@ I am passionate about **cloud technologies** and currently serve as the **Cloud 
   <a href="https://hashnode.com/@Rohansaini1512" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%2333AADD.svg?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/rohan1512" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23F76806.svg?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://discord.gg/xfxtCgY8" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Rohansaini1512/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" height="30" width="40" /></a>
 </p>
 
 ---
