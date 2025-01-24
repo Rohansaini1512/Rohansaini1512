@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Rohan Saini**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=7000&pause=800&color=2C9A7E&width=435&lines=Cloud+Lead+%7C+DevOps+Learner+%7C+MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=2C9A7E&width=600&lines=Cloud+Lead+%7C+DevOps+Learner+%7C+MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
